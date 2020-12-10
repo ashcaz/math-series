@@ -2,7 +2,7 @@
 
 ### Author: Ashley Casimir
 
-- [Pull Request URL]() 
+- [Pull Request](https://github.com/ashcaz/math-series/pull/1) 
 
 ### Set it up
 
