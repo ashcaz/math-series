@@ -2,7 +2,7 @@
 
 ### Author: Ashley Casimir
 
-- [Pull Request URL]() 
+- [Pull Request](https://github.com/ashcaz/math-series/pull/1) 
 
 ### Set it up
 
@@ -18,6 +18,7 @@ $ mv README.rst README.md
 $ git init
 $ git add .
 $ git commit -m "first commit"
+$ git branch -M main
 ```
 Now you are ready to rock and roll!
 
